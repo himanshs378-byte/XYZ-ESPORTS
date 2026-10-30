@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+app_backup.py
+app_old_backup.py
+app_before_banner.py
